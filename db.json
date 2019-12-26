@@ -1,5 +1,6 @@
 {
-     "campaign_dates": {
+  "create_campaign": {
+    "campaign_dates":{
          "dt_start": "1993-10-13"
         ,"dt_end": "1993-10-17"
     }
@@ -94,4 +95,5 @@
             }
         }
     }
+  }
 }
