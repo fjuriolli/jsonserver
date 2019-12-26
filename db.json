@@ -1,0 +1,97 @@
+{
+     "campaign_dates":{
+         "dt_start": "1993-10-13"
+        ,"dt_end": "1993-10-17"
+    }
+    ,"campaign_target": {
+         "target_number": "104.103"
+        ,"gender": "male"
+        ,"age_range": {
+             "age_start": 16
+            ,"age_end": 25
+        }
+        ,"interest_area": [
+             12
+            ,11
+            ,15
+            ,16
+        ]
+        ,"geo": {
+             "adr_full_desc": "Rua Dalva de Matos, 150 - Rio Branco, Belo Horizonte - MG"
+            ,"adr_state": "MG"
+            ,"adr_city": "Belo Horizonte"
+            ,"adr_lat": "19.8172359"
+            ,"adr_lng": "-43.989487"
+        }
+    }
+    ,"campaign_products": {
+        "surveys":{
+             "name": "Survey"
+            ,"id_product": 2
+            ,"quantity": 5
+            ,"price": 125.00
+            ,"data_load": {
+                 "question1": {
+                      "dt_scheduled": "1993-01-01"
+                     ,"boost": true
+                     ,"questions": {
+                         "q1": {
+                             "question": "consider buying tickets?"
+                            ,"a": "Expo 2020 Dubai"
+                            ,"b": "Fifa World Cup 2022"
+                            ,"c": "TOkio Olympic games"
+                            ,"d": "xxxxxx"
+                         }
+                         ,"q2": {
+                             "question": "Question 2"
+                            ,"a": "a2"
+                            ,"b": "b2"
+                            ,"c": "c2"
+                            ,"d": "d2"
+                         }
+                     }
+                 }
+                ,"question2":{
+                      "dt_scheduled": "1993-01-01"
+                     ,"boost": false
+                     ,"questions": {
+                         "q1": {
+                             "question": "consider buying tickets?"
+                            ,"a": "Expo 2020 Dubai"
+                            ,"b": "Fifa World Cup 2022"
+                            ,"c": "TOkio Olympic games"
+                            ,"d": "xxxxxx"
+                         }
+                         ,"q2": {
+                             "question": "What is your favorite color?"
+                            ,"a": "White"
+                            ,"b": "Black"
+                            ,"c": "Blue"
+                            ,"d": "Red"
+                         }
+                     }
+                 }
+                ,"question3": {
+                      "dt_scheduled": "1993-01-01"
+                     ,"boost": false
+                     ,"questions": {
+                         "q1":{
+                             "question": "consider buying tickets?"
+                            ,"a": "Expo 2020 Dubai"
+                            ,"b": "Fifa World Cup 2022"
+                            ,"c": "TOkio Olympic games"
+                            ,"d": "xxxxxx"
+                         }
+                         ,"q2":{
+                             "question": "Your age?"
+                            ,"a": "23"
+                            ,"b": "27"
+                            ,"c": "32"
+                            ,"d": "56"
+                         }
+                     }
+                 }
+            }
+        }
+    }
+}
